@@ -25,7 +25,25 @@ max-width: 20%;
     max-width:60% 
    }
 .my-carousel{
-    margin-top: 51px;
+   
 }
 
+.my-navbar {
+   
+    background-color: rgba(0,0,0,0.4);
+}
+
+.container-fluid{
+    padding-right: 200px;
+    padding-left: 50px;
+}
  
+.nav > li > a:focus, .nav > li > a:hover{
+    background-color: rgba(0,0,0,0.0);
+    
+}
+
+
+ul.nav li a {
+    color: #cccccc;
+}
